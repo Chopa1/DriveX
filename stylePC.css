@@ -83,7 +83,7 @@
     object-fit: cover;
     position: fixed;
     top: 50%;
-    left: 68%;
+    left: 67%;
     transform: translateY(-50%);
     width: 10%; /* Укажите необходимую ширину элемента */
     z-index: 2;
@@ -120,7 +120,7 @@
       .rating {
         position: fixed;
         top: 48%;/* Измените значение left на необходимое вам */
-        left: 25%;
+        left: 28%;
         transform: translateY(-50%);
         width: 55%; 
       }
